@@ -1,0 +1,4 @@
+# Só para desenvolvimento local
+.dev-server.py
+.DS_Store
+*.log
