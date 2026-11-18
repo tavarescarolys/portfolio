@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /recebido.html
+
+Sitemap: https://carolystavares.com/sitemap.xml
