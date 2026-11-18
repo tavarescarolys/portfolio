@@ -1439,3 +1439,6 @@ main:focus { outline: none; }
 
 /* ---- Formulário: campo-isca contra robôs (invisível para pessoas) ---- */
 .hp-field { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; }
+
+/* ---- Rodapé: razão social e CNPJ ---- */
+.site-footer .footer-legal { flex: 0 0 100%; margin: 0; padding-top: var(--space-4); border-top: 1px solid var(--line); font-size: 12px; line-height: 1.5; letter-spacing: 0.02em; color: var(--text-muted); }
